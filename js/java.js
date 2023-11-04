@@ -33,7 +33,7 @@ function resetear()
     document.getElementById("cant").value= ""
     document.getElementById("categ").value= "0"
     document.getElementById("monto").innerHTML=""
-    document.getElementById("nombre").value= ''
-    document.getElementById("apellido").value= ''
-    document.getElementById("correo").value= ''
+    document.getElementById("nombre2").value= ''
+    document.getElementById("apellido2").value= ''
+    document.getElementById("correo2").value= ''
 }
